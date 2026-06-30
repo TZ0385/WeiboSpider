@@ -67,9 +67,12 @@ pip install -r requirements.txt
 重写[fetch_proxy](./weibospider/middlewares.py#6L)
 方法，该方法需要返回一个代理ip，具体代码参考[这里](https://github.com/nghuyong/WeiboSpider/issues/124#issuecomment-654335439)。推荐代理:
 
+<img width="1500" height="397" alt="03dc26668140d3a011abd21e605d0090" src="https://github.com/user-attachments/assets/d4610810-7261-4c06-b2c2-699f825e6b9a" />
+
 IPWO[链接](https://www.ipwo.net/?ref=githubnghuyong) ：专注于全球住宅代理服务，为浏览器自动化、网页爬虫、公开数据采集及 AI 应用提供稳定、安全的网络支持。
 覆盖全球 195+ 国家和地区，让开发更高效，业务更稳定。0元试用，优惠折扣码：0104
 
+---
 Swiftproxy [链接](https://www.swiftproxy.net/?ref=hy) ：注册可领500MB免费测试流量，使用折扣码“GHB5”立享九折优惠！
 
 
